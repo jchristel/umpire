@@ -27,6 +27,7 @@ fill umpire roster bottom up in terms of grades and number of games umpired alre
 
 - start with games at lowest grade i.e. 10s
 - build umpire list based games major / minor grade for each game in grade
+- clamp umpires of a score range to avoid top level umpire doing base level game
 - from the lowest minor grade in this grade i.e. E assign umpire:
         - with the lowest score
         - with the lowest number of games umpired
