@@ -1,8 +1,9 @@
 player umpire assignment rules:
 
 
-- player needs to be available to umpire
-- player needs to be available on game date
+- player needs to be available to umpire ( has the skill to do so )
+- player needs to be available on game date ( is not away on given date)
+- player needs to be available at game time  (is not playing a game at the same time)
 - player needs to be available to umpire game by grade major
 - player needs to be available to umpire game by grade minor
 
