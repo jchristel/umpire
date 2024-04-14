@@ -22,7 +22,11 @@ player umpire assignment rules:
         - etc
     
     - personal skill bonus: If umpire A is better then umpire B but in a lower minor grade how is that reflected?
-        - 
+        - score in a range of 0 to +10 where:
+        - 0 umpire can only umpire in default age group defined for umpire age group
+        - +1 umpire can umpire default age group +1 year above
+        - +2 umpire can umpire default age group and up to 2 years above 
+        - etc
 
 fill umpire roster bottom up in terms of grades and number of games umpired already:
 
