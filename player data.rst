@@ -28,7 +28,7 @@ player data file / properties description
 
     - player is meant to umpire during the season at some point [bool]
 
-- player umpire grade
+- player umpire grade bonus
 
     - A number range from 0 to z indicating the number of grades above the umpires grade she is allowed to umpire for [int]
 
@@ -40,7 +40,7 @@ player data file / properties description
 
     - player is meant to mentor during the season [bool]
 
-- player mentor grade
+- player mentor grade bonus
 
     - A number range from 0 to z indicating the number of grades above the umpires grade she is allowed to mentor for [int]
 
